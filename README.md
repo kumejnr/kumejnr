@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kumejnr
-- 👀 I’m interested in Web Designing and Product Designs
+- 👀 I’m interested in Web Developing and Product Designs
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via kumejnr2@gmail.com
